@@ -4,8 +4,8 @@ import java.math.BigDecimal;
 
 import entities.user.*;
 
-public class SavingsAccount extends Account {
-    public SavingsAccount(User user, BigDecimal balance) {
+public class ClientSavingsAccount extends Account {
+    public ClientSavingsAccount(User user, BigDecimal balance) {
         super(user, balance);
     }
 
