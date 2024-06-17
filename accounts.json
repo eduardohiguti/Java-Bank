@@ -1,0 +1,19 @@
+[ {
+  "user" : {
+    "superUser" : true,
+    "employee" : true,
+    "accountId" : 0,
+    "name" : "Gerente",
+    "password" : "ecfba551324356e5bd27b548adf36b728783f6d9b573d142caac7baad62be49"
+  },
+  "balance" : -1
+}, {
+  "user" : {
+    "superUser" : false,
+    "employee" : false,
+    "accountId" : 1,
+    "name" : "Pedro",
+    "password" : "55a5e9e7827b4df8699d6886fa7079463547b095d1a05bc719bb4e6cd251"
+  },
+  "balance" : 500
+} ]
